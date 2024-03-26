@@ -6,6 +6,7 @@ public class Programa {
         Main02.executar();
         Main03.executar();
         Main04.executar();
+        Main05.executar();
 
     }
 
